@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "shAy9fuLoG/GRPmchROTPbKbtz/BCKDIopEQzweiYg8u29Xra0GrGDPcJ0C+0k16eYLgtVLXwjNM97vkO24Lzw==",
+  "dgSpecHash": "faL9sd9IGtYCeYOBJAu9MRmgIwBE1ud+XrHr8N10h3R7uvfNHrtg3Kxij+DbIXGqY26f1aPWv4GNpSAtlhRKqg==",
   "success": true,
-  "projectFilePath": "C:\\github\\apicarro\\Solution1\\apiweb\\apiweb.csproj",
+  "projectFilePath": "C:\\github\\apicarro\\apiweb\\apiweb.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\terc.leonardo\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.9\\microsoft.visualstudio.azure.containers.tools.targets.1.10.9.nupkg.sha512"
   ],

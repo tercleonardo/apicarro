@@ -89,11 +89,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\github\\apicarro\\Solution1\\apiweb\\apiweb.csproj",
+      "projectUniqueName": "C:\\github\\apicarro\\apiweb\\apiweb.csproj",
       "projectName": "apiweb",
-      "projectPath": "C:\\github\\apicarro\\Solution1\\apiweb\\apiweb.csproj",
+      "projectPath": "C:\\github\\apicarro\\apiweb\\apiweb.csproj",
       "packagesPath": "C:\\Users\\terc.leonardo\\.nuget\\packages\\",
-      "outputPath": "C:\\github\\apicarro\\Solution1\\apiweb\\obj\\",
+      "outputPath": "C:\\github\\apicarro\\apiweb\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"
