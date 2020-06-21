@@ -1,0 +1,9 @@
+C:\github\apicarro\Solution1\apiweb\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\github\apicarro\Solution1\apiweb\bin\Debug\netcoreapp3.1\appsettings.json
+C:\github\apicarro\Solution1\apiweb\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\github\apicarro\Solution1\apiweb\obj\Debug\netcoreapp3.1\apiweb.csprojAssemblyReference.cache
+C:\github\apicarro\Solution1\apiweb\obj\Debug\netcoreapp3.1\apiweb.AssemblyInfoInputs.cache
+C:\github\apicarro\Solution1\apiweb\obj\Debug\netcoreapp3.1\apiweb.AssemblyInfo.cs
+C:\github\apicarro\Solution1\apiweb\obj\Debug\netcoreapp3.1\apiweb.RazorTargetAssemblyInfo.cache
+C:\github\apicarro\Solution1\apiweb\obj\Debug\netcoreapp3.1\staticwebassets\apiweb.StaticWebAssets.Manifest.cache
+C:\github\apicarro\Solution1\apiweb\obj\Debug\netcoreapp3.1\staticwebassets\apiweb.StaticWebAssets.xml

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "shAy9fuLoG/GRPmchROTPbKbtz/BCKDIopEQzweiYg8u29Xra0GrGDPcJ0C+0k16eYLgtVLXwjNM97vkO24Lzw==",
+  "success": true,
+  "projectFilePath": "C:\\github\\apicarro\\Solution1\\apiweb\\apiweb.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\terc.leonardo\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.9\\microsoft.visualstudio.azure.containers.tools.targets.1.10.9.nupkg.sha512"
+  ],
+  "logs": []
+}
